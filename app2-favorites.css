@@ -1,0 +1,36 @@
+body{
+	background-color:#0F9DE8;
+
+}
+header{
+	display:flex;
+	flex-direction: column;
+
+}
+img{
+	border-radius: 20%;
+	border: ridge black;
+	width: 500px;
+	height: 300px;
+}
+
+}
+img{
+	border-radius: 20%;
+	border: ridge black;
+	width: 500px;
+	height: 300px;
+}
+
+}
+a{	
+	border-radius: 30%;
+	text-decoration: none;
+	background-color:#318CE7 ;
+	opacity: 0,3s
+}
+
+
+
+
+

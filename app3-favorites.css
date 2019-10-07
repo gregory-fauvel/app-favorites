@@ -1,0 +1,26 @@
+body{
+	background-color: #F0C300;
+
+}
+header{
+	display:flex;
+	flex-direction: column;
+
+}
+img{
+	border-radius: 20%;
+	border: ridge black;
+	width: 500px;
+	height: 300px;
+}
+a{
+	background-color: black;
+	opacity: 0,3s;
+	color: #F4C430;
+	text-decoration: none;
+	border-radius: 30%;		
+}
+
+
+
+
